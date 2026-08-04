@@ -1,0 +1,24 @@
+{
+  "routerMap": [
+    {
+      "name": "LifecycleDemo",
+      "pageSourceFile": "src/main/ets/pages/LifecycleDemo.ets",
+      "buildFunction": "LifecycleDemoBuilder"
+    },
+    {
+      "name": "ReuseDemo",
+      "pageSourceFile": "src/main/ets/pages/ReuseDemo.ets",
+      "buildFunction": "ReuseDemoBuilder"
+    },
+    {
+      "name": "ThemeDemo",
+      "pageSourceFile": "src/main/ets/pages/ThemeDemo.ets",
+      "buildFunction": "ThemeDemoBuilder"
+    },
+    {
+      "name": "LinkDemo",
+      "pageSourceFile": "src/main/ets/pages/LinkDemo.ets",
+      "buildFunction": "LinkDemoBuilder"
+    }
+  ]
+}
